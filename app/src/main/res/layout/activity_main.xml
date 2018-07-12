@@ -41,4 +41,16 @@
         android:layout_height="wrap_content"
         android:text="C调Java Add"/>
 
+    <Button
+        android:id="@+id/c_call_java_addNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="C访问java变量"/>
+
+    <Button
+        android:id="@+id/c_call_java_static_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="C访问java的static变量"/>
+
 </LinearLayout>
